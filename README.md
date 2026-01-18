@@ -1,7 +1,7 @@
 # Sales Data Analysis & Dashboard 📊
 
 ## Project Description
-This project focuses on analyzing sales data to understand revenue trends, product performance, and regional sales patterns using **MS Excel and Power BI**. The objective is to support business decision-making through interactive dashboards and insights.
+This project focuses on analyzing sales data to understand revenue trends, product performance, and regional sales patterns using **MS Excel**. The objective is to support business decision-making through interactive dashboards and insights.
 
 
 ## Tools & Technologies
@@ -18,7 +18,7 @@ This project focuses on analyzing sales data to understand revenue trends, produ
    - Analyzed revenue, sales volume, and regional performance.
    - Identified top-performing products and regions.
 
-3. **Dashboard Creation (Power BI)**
+3. **Dashboard Creation (Excel)**
    - Built interactive dashboards with charts and slicers.
    - Visualized sales trends, KPIs, and performance metrics.
 
@@ -27,7 +27,8 @@ This project focuses on analyzing sales data to understand revenue trends, produ
 
 <img width="1646" height="723" alt="Screenshot 2026-01-18 212023" src="https://github.com/user-attachments/assets/33408fe6-fb4d-4c47-b29a-c84a867f6b2f" />
 
-The dashboard provides a clear view of sales performance, enabling users to analyze trends across regions and products.
+This sales dashboard provides a comprehensive view of overall sales performance by category, state, and time period. It highlights profit trends,
+customer distribution, monthly sales patterns, and top profit-generating customers, enabling data-driven analysis across regions and products.
 
 
 ## Key Insights
